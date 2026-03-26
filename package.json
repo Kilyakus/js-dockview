@@ -1,0 +1,16 @@
+{
+	"name": "@kilyakus/js-dockview",
+	"version": "1.26.3",
+	"description": "Is a lightweight and universal dock/taskbar module.",
+	"main": "js/dockview.min.js",
+	"style": "css/dockview.min.css",
+	"author": "Aleksandr Kilyakov (@Kilyakus)",
+	"license": "CC-BY-NC-4.0",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kilyakus/js-dockview.git"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
+}
