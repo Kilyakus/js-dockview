@@ -1,6 +1,6 @@
 {
 	"name": "@kilyakus/js-dockview",
-	"version": "22.26.4",
+	"version": "23.26.4",
 	"description": "Is a lightweight and universal dock/taskbar module.",
 	"main": "js/dockview.min.js",
 	"style": "css/dockview.min.css",
